@@ -4,7 +4,7 @@ Integration of all the concepts learned during my COP 3003 class.
 
 ## Demonstration
 After completing the code analysis.
-![alt text](C:\Users\Owner\Pictures\IMAGE)
+![This is an image](C:\Users\Owner\Pictures\IMAGE)
 
 ## Documentation
 
