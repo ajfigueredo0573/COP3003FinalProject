@@ -4,7 +4,7 @@ Integration of all the concepts learned during my COP 3003 class.
 
 ## Demonstration
 After completing the code analysis.
-![This is an image](C:\Users\Owner\Pictures\IMAGE)
+![alt text](https://github.com/ajfigueredo0573/COP3003FinalProject/blob/main/IMAGE.PNG)
 
 ## Documentation
 
