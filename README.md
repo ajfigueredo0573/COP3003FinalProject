@@ -7,30 +7,23 @@ After completing the code analysis.
 ![alt text](https://github.com/ajfigueredo0573/COP3003FinalProject/blob/main/IMAGE.PNG)
 
 ## Documentation
-
+* [Inheritance in C++](https://www.geeksforgeeks.org/inheritance-in-c/)
+* [Using Clang-Tidy in Visual Studio](https://docs.microsoft.com/en-us/cpp/code-quality/clang-tidy?view=msvc-170)
+* [Passing a function as a parameter in C++](https://www.geeksforgeeks.org/passing-a-function-as-a-parameter-in-cpp/)
 
 ## Diagrams
-
-
-## Getting Started
-
+The class diagram for the project intends to look like this:
+![alt text](https://github.com/ajfigueredo0573/COP3003FinalProject/blob/main/Flowchart.PNG)
 
 ## Built With
 * Visual Studio
-* QT C++ 
-
-## Contributing
-
 
 ## Author
 
 * Alejandro Figueredo
 
 ## License
-
-
-## Acknowledgments
-
+* [Azure](https://azureforeducation.microsoft.com/devtools)
 
 ## History
 
@@ -38,3 +31,6 @@ After completing the code analysis.
 
 ## Key Programming Concepts Utilized
 
+## Special Notes
+
+I want to thank the student assistants from my COP 3003 class for helping me get through the Visual Studio bugs
